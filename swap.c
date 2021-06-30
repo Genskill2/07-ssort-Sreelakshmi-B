@@ -29,4 +29,4 @@ void swap_max(int ar[], int l, int n )
   tmp=ar[n];
   ar[n]=ar[mx_index];
   ar[mx_index]=tmp;
-}
+} 
