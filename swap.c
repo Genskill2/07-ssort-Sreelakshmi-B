@@ -15,7 +15,6 @@ void ssort(int ar[], int l)
   
 }
 
-
 void swap_max(int ar[], int l, int n )
 {  int mx_index=n;
    int tmp;
